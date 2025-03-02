@@ -1,1 +1,1 @@
-Spotify Html CSS clone.
+Spotify clone.
